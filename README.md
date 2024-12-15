@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Sou do interior de Goiás, tenho 22 anos e faço Ciência da Computação<br><br>- 🔭 Estou no 7º período do meu curso<br>- 📚 Atualmente estou estudando aquiteturas ERP e integrações de sistemas.<br>- ⚡ Quando há tempo livre, sempre é bom ver coisas novas e absorver conhecimento</p>
+<p align="left">Sou do interior de Goiás, tenho 22 anos e sou formado em Ciência da Computação<br><br>- 🔭 📚 </p>
 
 ###
 
